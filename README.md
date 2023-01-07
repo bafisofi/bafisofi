@@ -8,5 +8,5 @@ Systems Engineer, with junior level of Web Development, ooking for an opportunit
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [bafisofi@gmail.com](mailto:bafisofi@gmail.com)
-* 🧠  Student of the course The FrontEnd Developer Career Path at Scrimba
+* 🧠  Student of the course The Frontend Developer Career Path at Scrimba
 * 🤝  I'm open to collaborating on interesting projects
